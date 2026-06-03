@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# AWS Lambda Deployment Packages
+*.zip
+
+# VS Code
+.vscode/
+
+# AWS SAM
+.aws-sam/
+
+# Terraform (for future DevOps projects)
+.terraform/
+*.tfstate
+*.tfstate.*
